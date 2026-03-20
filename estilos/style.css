@@ -8,7 +8,7 @@
 /*configurações gerais para (retrato/paisagem)*/
 html, body {
     width: 100vw;
-    height: 100vw;
+    height: 100vh;
     background-color:#233eff;
     background-size: contain;
     background-repeat: no-repeat;
